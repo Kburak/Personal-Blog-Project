@@ -1,3 +1,4 @@
+
 # personal-blog-project
 
   This is a personal blog project to improve my  skills in web applications.
@@ -32,6 +33,7 @@ $ pip install -r requirements.txt
 ```bash
 $ python app.py
 ```
+
 ####You might also need to download sqlite3.exe to the file location
  
 
