@@ -2,7 +2,6 @@
 
   This is a personal blog project to improve my  skills in web applications.
 
-
 ## Install guide
 
 ##### Clone the repo
@@ -33,5 +32,5 @@ $ pip install -r requirements.txt
 ```bash
 $ python app.py
 ```
-
-##### You might also need sqlite3.exe to access database
+####You might also need to download sqlite3.exe to the file location
+ 
