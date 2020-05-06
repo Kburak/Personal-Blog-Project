@@ -3,7 +3,7 @@
   
 Install guide
 Clone the repo
-$ git clone https://github.com/Emircan92/Personal-Blog.git
+$ git clone https://github.com/Kburak/personal-blog-project.git
 $ cd Personal-Blog
 Create the virtualenv and activate it
 $ python3 -m venv venv
